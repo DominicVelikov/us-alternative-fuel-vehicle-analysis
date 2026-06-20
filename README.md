@@ -111,20 +111,6 @@ Recommended investment priorities include:
 
 These recommendations can help guide future charging infrastructure planning and support long-term transportation policy decisions.
 
-## Repository Structure
-
-```text
-├── Vehicle Data.csv
-├── clean_vehicle_analysis.csv
-├── Analyzing U.S. Electric Vehicle Market Share Project.ipynb
-├── usa_vehicle_analysis.sql
-├── usa_vehicle_analysis.pbix
-├── US_Alternative_Fuel_Vehicle_Project_Report.pdf
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
 ## How to Run This Project
 
 1. Clone or download this repository.
@@ -137,23 +123,11 @@ pip install -r requirements.txt
 
 3. Open the Jupyter Notebook:
 
-```text
-Analyzing U.S. Electric Vehicle Market Share Project.ipynb
-```
-
 4. Run the notebook to review the data cleaning and exploratory analysis.
 
 5. Open the SQL file in PostgreSQL:
 
-```text
-usa_vehicle_analysis.sql
-```
-
 6. Open the Power BI file to view the interactive dashboard:
-
-```text
-usa_vehicle_analysis.pbix
-```
 
 7. Review the final project report for a complete explanation of the analysis and recommendations.
 
